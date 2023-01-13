@@ -1,5 +1,6 @@
 {
-  "User": {
-    "title": { "string": {} }
+  "Device": {
+    "name": { "string": {} },
+    "ip": { "number": {} }
   }
 }
