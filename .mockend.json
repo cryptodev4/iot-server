@@ -1,5 +1,5 @@
 {
-  "Device": {
+  "User": {
     "name": { "string": {} },
     "ip": { "number": {} }
   }
