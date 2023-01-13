@@ -1,6 +1,5 @@
 {
   "User": {
-    "name": { "string": {} },
-    "ip": { "number": {} }
+    "name": { "string": {} }
   }
 }
