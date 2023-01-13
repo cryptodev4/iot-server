@@ -1,7 +1,5 @@
 {
-  "Device": {
-    "name": { 
-      "string": "iot-device"
-    }
+  "User": {
+    "title": { "string": {} }
   }
 }
