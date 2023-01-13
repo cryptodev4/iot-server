@@ -1,5 +1,6 @@
 {
   "User": {
+    "_": { "items": 20 },
     "name": { "string": {} }
   }
 }
